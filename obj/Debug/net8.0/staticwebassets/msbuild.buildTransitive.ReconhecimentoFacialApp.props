@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReconhecimentoFacialApp.props" />
+</Project>
