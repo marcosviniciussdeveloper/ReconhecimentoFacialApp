@@ -14,6 +14,8 @@ namespace ReconhecimentoFacialApp.Data
         public DbSet<ValidacaoFacial> ValidacoesFaciais { get; set; }
 
 
+
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Usuario>().ToTable("usuarios");

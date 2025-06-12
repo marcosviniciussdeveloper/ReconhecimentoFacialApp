@@ -21,10 +21,7 @@ public class UsuarioService : IUsuariosService
     public Task<IEnumerable<ReadUsuarioDto>> ObterTodosPorIdAsync(Guid usuarioId) =>
         _repository.GetAllByUsuariosReadAysnc(usuarioId);
 
-    public Task<IEnumerable<ReadUsuarioDto>> ObterTodosPorCpfAsync(string Cpf)
-    {
-        throw new NotImplementedException();
-    }
+   
 
     public Task<ReadUsuarioDto?> ObterPorCpfAsync(string Cpf)
     {

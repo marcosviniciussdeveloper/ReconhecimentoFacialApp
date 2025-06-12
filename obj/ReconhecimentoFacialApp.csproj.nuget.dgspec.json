@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj": {}
+    "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj": {
+    "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj",
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj",
         "projectName": "ReconhecimentoFacialApp",
-        "projectPath": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\ReconhecimentoFacialApp.csproj",
         "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\obj\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

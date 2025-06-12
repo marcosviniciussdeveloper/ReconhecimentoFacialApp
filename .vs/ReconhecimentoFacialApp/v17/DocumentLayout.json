@@ -1,78 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\controllers\\validacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:controllers\\validacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\service\\interface\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\interface\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\dtos\\validacaofacialdtos\\validacaofacialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:dtos\\validacaofacialdtos\\validacaofacialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\repositories\\iusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\iusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\repositories\\validacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\validacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\dtos\\usuariosdtos\\usuariosdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:dtos\\usuariosdtos\\usuariosdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\repositories\\ivalidacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\ivalidacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\service\\interface\\ivalidacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\interface\\ivalidacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\service\\validacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\service\\validacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\validacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\data\\models\\validacaofacial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\data\\models\\validacaofacial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:data\\models\\validacaofacial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\data\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\service\\interface\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\interface\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\data\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:data\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\projetofacial\\reconhecimentofacialapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\dtos\\usuariosdtos\\usuariosdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:dtos\\usuariosdtos\\usuariosdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\dtos\\eventodipositivo\\eventodipositivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:dtos\\eventodipositivo\\eventodipositivodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\controllers\\dispositivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:controllers\\dispositivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\dtos\\validacaofacialdtos\\validacaofacialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:dtos\\validacaofacialdtos\\validacaofacialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\service\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\service\\interface\\inotificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\interface\\inotificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\controllers\\validacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:controllers\\validacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\repositories\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\inotificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\repositories\\validacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\validacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\service\\interface\\ivalidacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:service\\interface\\ivalidacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\repositories\\iusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\iusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|c:\\users\\sindauto\\desktop\\reconcimentofacialbackend\\reconhecimentofacialapp\\repositories\\ivalidacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D308B26-B283-4AFD-B5DA-8C2F63329B73}|ReconhecimentoFacialApp.csproj|solutionrelative:repositories\\ivalidacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,8 +113,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 9,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 58,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,40 +129,64 @@
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T00:10:22.939Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:13:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ValidacaoFacial.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Data\\Models\\ValidacaoFacial.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Data\\Models\\ValidacaoFacial.cs",
               "RelativeDocumentMoniker": "Data\\Models\\ValidacaoFacial.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Data\\Models\\ValidacaoFacial.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Data\\Models\\ValidacaoFacial.cs",
               "RelativeToolTip": "Data\\Models\\ValidacaoFacial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T00:15:55.375Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T00:10:22.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T18:41:01.027Z"
             }
           ]
         },
         {
-          "DockedWidth": 382,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 333,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,218 +210,280 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:36:30.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IValidacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\IValidacaoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IValidacaoRepository.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\IValidacaoRepository.cs",
-              "RelativeToolTip": "Repositories\\IValidacaoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:43:08.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUsuariosService.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\Interface\\IUsuariosService.cs",
-              "RelativeDocumentMoniker": "Service\\Interface\\IUsuariosService.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\Interface\\IUsuariosService.cs",
-              "RelativeToolTip": "Service\\Interface\\IUsuariosService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T23:38:14.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUsuariosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\IUsuariosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUsuariosRepository.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\IUsuariosRepository.cs",
-              "RelativeToolTip": "Repositories\\IUsuariosRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:26:41.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IValidacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\Interface\\IValidacaoService.cs",
-              "RelativeDocumentMoniker": "Service\\Interface\\IValidacaoService.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\Interface\\IValidacaoService.cs",
-              "RelativeToolTip": "Service\\Interface\\IValidacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T22:45:37.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuariosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\UsuariosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UsuariosRepository.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\UsuariosRepository.cs",
-              "RelativeToolTip": "Repositories\\UsuariosRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:27:14.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValidacaoFacialDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
-              "RelativeToolTip": "Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:30:33.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValidacaoController.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Controllers\\ValidacaoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ValidacaoController.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Controllers\\ValidacaoController.cs",
-              "RelativeToolTip": "Controllers\\ValidacaoController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:33:04.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValidacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\ValidacaoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ValidacaoRepository.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Repositories\\ValidacaoRepository.cs",
-              "RelativeToolTip": "Repositories\\ValidacaoRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T19:54:17.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ValidacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\ValidacaoService.cs",
-              "RelativeDocumentMoniker": "Service\\ValidacaoService.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\ValidacaoService.cs",
-              "RelativeToolTip": "Service\\ValidacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T20:05:10.624Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "INotificacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\Interface\\INotificacaoService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\INotificacaoService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\Interface\\INotificacaoService.cs",
+              "RelativeToolTip": "Service\\Interface\\INotificacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:33:48.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\NotificacaoService.cs",
+              "RelativeDocumentMoniker": "Service\\NotificacaoService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\NotificacaoService.cs",
+              "RelativeToolTip": "Service\\NotificacaoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:33:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\NotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\NotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\NotificacaoRepository.cs",
+              "RelativeToolTip": "Repositories\\NotificacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:32:33.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\INotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\INotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\INotificacaoRepository.cs",
+              "RelativeToolTip": "Repositories\\INotificacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:31:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DispositivoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Controllers\\DispositivoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DispositivoController.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Controllers\\DispositivoController.cs",
+              "RelativeToolTip": "Controllers\\DispositivoController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:30:19.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventoDipositivoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Dtos\\EventoDipositivo\\EventoDipositivoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EventoDipositivo\\EventoDipositivoDto.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Dtos\\EventoDipositivo\\EventoDipositivoDto.cs",
+              "RelativeToolTip": "Dtos\\EventoDipositivo\\EventoDipositivoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:28:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Data\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Data\\Models\\Usuarios.cs",
+              "RelativeToolTip": "Data\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:40:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\UsuarioService.cs",
               "RelativeDocumentMoniker": "Service\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\UsuarioService.cs",
               "RelativeToolTip": "Service\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T18:36:12.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Controllers\\ValidacaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValidacaoController.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Controllers\\ValidacaoController.cs",
+              "RelativeToolTip": "Controllers\\ValidacaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:33:04.529Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UsuariosDtos.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Dtos\\UsuariosDtos\\UsuariosDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Dtos\\UsuariosDtos\\UsuariosDtos.cs",
               "RelativeDocumentMoniker": "Dtos\\UsuariosDtos\\UsuariosDtos.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Dtos\\UsuariosDtos\\UsuariosDtos.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Dtos\\UsuariosDtos\\UsuariosDtos.cs",
               "RelativeToolTip": "Dtos\\UsuariosDtos\\UsuariosDtos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T19:02:14.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T18:02:58.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T17:55:12.47Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "ValidacaoFacialDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
+              "RelativeToolTip": "Dtos\\ValidacaoFacialDtos\\ValidacaoFacialDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:30:33.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAMAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IUsuariosService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\Interface\\IUsuariosService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IUsuariosService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\Interface\\IUsuariosService.cs",
+              "RelativeToolTip": "Service\\Interface\\IUsuariosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:45:34.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T23:38:14.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IValidacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\Interface\\IValidacaoService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IValidacaoService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\Interface\\IValidacaoService.cs",
+              "RelativeToolTip": "Service\\Interface\\IValidacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:45:37.737Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Data\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\Data\\Models\\Usuarios.cs",
-              "RelativeToolTip": "Data\\Models\\Usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:40:52.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ProjetoFacial\\ReconhecimentoFacialApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T17:55:11.925Z",
+              "WhenOpened": "2025-06-02T17:55:11.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T17:55:12.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:45:34.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:36:30.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\ValidacaoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ValidacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\ValidacaoRepository.cs",
+              "RelativeToolTip": "Repositories\\ValidacaoRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:54:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\UsuariosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuariosRepository.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\UsuariosRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuariosRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:27:14.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUsuariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\IUsuariosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUsuariosRepository.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\IUsuariosRepository.cs",
+              "RelativeToolTip": "Repositories\\IUsuariosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:26:41.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IValidacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\IValidacaoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IValidacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Repositories\\IValidacaoRepository.cs",
+              "RelativeToolTip": "Repositories\\IValidacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:43:08.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\ValidacaoService.cs",
+              "RelativeDocumentMoniker": "Service\\ValidacaoService.cs",
+              "ToolTip": "C:\\Users\\Sindauto\\Desktop\\ReconcimentoFacialBackEnd\\ReconhecimentoFacialApp\\Service\\ValidacaoService.cs",
+              "RelativeToolTip": "Service\\ValidacaoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:05:10.624Z",
               "EditorCaption": ""
             }
           ]

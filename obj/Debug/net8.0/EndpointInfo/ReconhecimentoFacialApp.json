@@ -5,6 +5,37 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Dispositivo/RegistrarEvento": {
+      "post": {
+        "tags": [
+          "Dispositivo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EventoDispositivoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EventoDispositivoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EventoDispositivoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Usuarios": {
       "post": {
         "tags": [
@@ -220,6 +251,7 @@
       "CreateUsuarioDto": {
         "required": [
           "cpf",
+          "email",
           "nome"
         ],
         "type": "object",
@@ -240,6 +272,10 @@
           "imgCodigo": {
             "type": "string",
             "nullable": true
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string"
           },
           "createdAt": {
             "type": "string",
@@ -282,6 +318,40 @@
         },
         "additionalProperties": false
       },
+      "EventoDispositivoDto": {
+        "type": "object",
+        "properties": {
+          "dispositivoId": {
+            "type": "string",
+            "nullable": true
+          },
+          "usuarioId": {
+            "type": "string",
+            "nullable": true
+          },
+          "resultado": {
+            "type": "string",
+            "nullable": true
+          },
+          "mensagem": {
+            "type": "string",
+            "nullable": true
+          },
+          "tipo": {
+            "type": "string",
+            "nullable": true
+          },
+          "imagemBase64": {
+            "type": "string",
+            "nullable": true
+          },
+          "dataHora": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
       "UpdateUsuarioDto": {
         "type": "object",
         "properties": {
@@ -299,6 +369,10 @@
             "nullable": true
           },
           "imgCodigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
             "type": "string",
             "nullable": true
           },

@@ -1,6 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ReconhecimentoFacialApp.Dtos.ValidacaoFacialDtos;
-using ReconhecimentoFacialApp.Service;
 using ReconhecimentoFacialApp.Service.Interface;
 
 
@@ -25,14 +23,15 @@ namespace ReconhecimentoFacialApp.Controllers
 
             try
             {
-                var id = await _usuariosService.CriarAsync(dto);
-                return CreatedAtAction(nameof(ObterPorCpf), new { id }, new { mensagem = "Usuário criado com sucesso", id });
+                var usuario = await _usuariosService.CriarAsync(dto);
+                return Ok(usuario);
             }
             catch (Exception ex)
             {
-                return BadRequest(new { erro = ex.Message });
+                return StatusCode(500, new { erro = ex.Message, detalhe = ex.InnerException?.Message });
             }
         }
+
 
         [HttpPut("Atualizar")]
         public async Task<IActionResult> AtualizarAsync([FromBody] UpdateUsuarioDto dto)

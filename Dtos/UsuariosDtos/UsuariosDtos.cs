@@ -12,6 +12,9 @@ public class CreateUsuarioDto
 
     public string? ImgCodigo { get; set; }
 
+    [Required]
+    public string Email { get; set; }
+
     public DateTime? CreatedAt { get; set; } = DateTime.UtcNow;
 
     public string? TipoUsuario { get; set; }
@@ -23,6 +26,7 @@ public class UpdateUsuarioDto
     public string? Nome { get; set; }
     public string? Cpf { get; set; }
     public string? ImgCodigo { get; set; }
+    public string? Email { get; set; }
     public string? TipoUsuario { get; set; }
 }
 
@@ -32,6 +36,8 @@ public class ReadUsuarioDto
     public string Nome { get; set; }
     public string? ImgCodigo { get; set; }
     public string Cpf { get; set; }
+
+    public string Email { get; set; }
     public string? TipoUsuario { get; set; }
     public DateTime CreatedAt { get; set; }
 }

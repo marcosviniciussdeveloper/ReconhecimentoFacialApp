@@ -35,6 +35,10 @@ namespace ReconhecimentoFacialApp.Migrations
                     b.Property<DateTime>("Created_At")
                         .HasColumnType("timestamp with time zone");
 
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<string>("Img_Codigo")
                         .HasColumnType("text");
 
@@ -50,7 +54,7 @@ namespace ReconhecimentoFacialApp.Migrations
                     b.ToTable("usuarios", (string)null);
                 });
 
-            modelBuilder.Entity("ReconhecimentoFacialApp.Models.ValidacaoFacial", b =>
+            modelBuilder.Entity("ValidacaoFacial", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -59,16 +63,27 @@ namespace ReconhecimentoFacialApp.Migrations
                     b.Property<DateTime>("Data_Validacao")
                         .HasColumnType("timestamp with time zone");
 
+                    b.Property<string>("Dispositivo_Id")
+                        .HasColumnType("text");
+
                     b.Property<string>("Imagem_Path")
                         .HasColumnType("text");
 
                     b.Property<string>("Mensagem")
                         .HasColumnType("text");
 
+                    b.Property<string>("RawPayload")
+                        .HasColumnType("text");
+
                     b.Property<string>("Resultado_Validacao")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Status")
                         .HasColumnType("text");
 
                     b.Property<string>("Tipo_Validacao")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<Guid>("Usuario_Id")
@@ -81,7 +96,7 @@ namespace ReconhecimentoFacialApp.Migrations
                     b.ToTable("validacoes_faciais", (string)null);
                 });
 
-            modelBuilder.Entity("ReconhecimentoFacialApp.Models.ValidacaoFacial", b =>
+            modelBuilder.Entity("ValidacaoFacial", b =>
                 {
                     b.HasOne("ReconhecimentoFacialApp.Models.Usuario", "Usuario")
                         .WithMany()

@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "ReconhecimentoFacialApp.Controllers.DispositivoController",
+    "Method": "RegistrarEventoAsync",
+    "RelativePath": "api/Dispositivo/RegistrarEvento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ReconhecimentoFacialApp.Dtos.EventoDispositivoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ReconhecimentoFacialApp.Controllers.UsuariosController",
     "Method": "Post",
     "RelativePath": "api/Usuarios",

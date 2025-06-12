@@ -7,7 +7,6 @@ namespace ReconhecimentoFacialApp.Service.Interface
         Task<Guid> CriarAsync(CreateUsuarioDto dto);
         Task<bool> AtualizarAsync(UpdateUsuarioDto dto);
         Task<bool> ExcluirAsync(string Cpf );
-        Task<IEnumerable<ReadUsuarioDto>> ObterTodosPorCpfAsync(string Cpf);
 
         Task<ReadUsuarioDto?> ObterPorCpfAsync(string Cpf);
     }
